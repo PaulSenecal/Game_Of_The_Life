@@ -1,3 +1,9 @@
+/*
+ Version:1.0
+ Goal:game of the life
+ Date:2017
+ by:Paul_SNL
+*/
 #include <cstdlib>
 #include <iostream>
 
